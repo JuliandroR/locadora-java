@@ -1,0 +1,7 @@
+abc-1234 | Sandero RS | b |0|100
+bca-3128 | HB20 Sedan | b |1|120
+aaa-0001 | Polo Hatch | b |2|180
+wla-0325 | Ram 2500 | c |3|490
+dbc-5412 | Mini furgao | d |3|450
+wer-1234 | Citroen C4 Cactus | c |0|250
+ope-1034 | Argo Sedan+ | c |1|320
